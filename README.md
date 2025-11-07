@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá pessoal 👋
 
-<!--
-**Giovani-L/Giovani-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<! --
+  **Giovani-L/Giovani-L** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+Aqui estão algumas idéias para você começar:
+- 🔭 Atualmente estou trabalhando em Nenhum Projeto ainda
+- 🌱 Atualmente estou Cursando Desenvolvimento de Sistemas na Etec de Hortolandia
+- 👯 Linguagens:
+      React
+      JavaScript
+      C#
 -->
+
